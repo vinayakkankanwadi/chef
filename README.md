@@ -2,10 +2,10 @@
 ##Automatically configuring node onto the VM using chef.
 
 ####Required:
-
+```
 #####  chef-solo (chef-dk)
 ###### https://downloads.chef.io/chef-dk
-
+```
 ##### Step 1: Create vm using 
 ```
 ######	vagrant init ubuntu/trusty64
